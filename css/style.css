@@ -1,0 +1,98 @@
+.backnav {
+  background-color: black;
+}
+@media all and (min-width:1070px) {
+  .links {
+    display:block;
+  }
+}
+#linkGithub {
+  position: absolute;
+  right: 30px;
+  vertical-align: middle;
+}
+#linkfacebook {
+  position: absolute;
+  right: 80px;
+}
+#linkLinkedin {
+  position: absolute;
+  right: 120px;
+}
+.parallax {
+    /* The image used */
+    background-image: url('../img/team-3373638_1920.jpg');
+
+    /* Set a specific height */
+      min-height: 40rem;
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.parallax2 {
+    /* The image used */
+    background: url('../img/technology-1283624_1920.jpg') no-repeat center fixed;
+
+    /* Set a specific height */
+      min-height: 19rem;
+
+     /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.parallax3 {
+    /* The image used */
+    background-image: url('../img/team-3373638_1920.jpg');
+
+    /* Set a specific height */
+      min-height: 40rem;
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.Profil{
+  color: black;
+  font-size: 30px;
+  text-shadow: 1px 1px 2px #05966D;
+  padding-bottom: 10px;
+}
+#corps h1{
+  color: black;
+  text-decoration: underline;
+  background-color: #0e1c3a;
+  border: 10px black double;
+  width: 100%;
+}
+h2{
+color:black;
+background-color: #05966D;
+border: 1px black solid;
+}
+.Competences{
+  border: solid black 2px;
+  height: auto;
+  width: 90%;
+}
+#Experiences{
+  padding-top: 20px;
+}
+.Experiences{
+margin-top: 1rem;
+margin-bottom: 2rem;
+}
+.Formations{
+  border: solid black 5px;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+footer{
+  background-color: black;
+}
